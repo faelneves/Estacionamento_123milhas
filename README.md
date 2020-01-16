@@ -3,6 +3,8 @@
 
 Escreva as classes necessárias para representar um estacionamento. Dica: Seja criativo e demonstre seus conhecimentos de POO.
 
+imagem demo: ![imagem demo](https://i.imgur.com/IuYwwhB.png)
+
 ## Guia de Instalação
 
 #Passo 1
@@ -20,3 +22,4 @@ Configure o arquivo `.env` e execute o comando `php artisan migrate`
 #Passo 4
 
 Acesse a aplicação através do link: `"link_do_servidor"/"pasta_raiz_da_aplicacao"/public/`
+

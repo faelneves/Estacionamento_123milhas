@@ -3,7 +3,7 @@
 
 Escreva as classes necessárias para representar um estacionamento. Dica: Seja criativo e demonstre seus conhecimentos de POO.
 
-imagem demo: ![imagem demo](https://i.imgur.com/24fiQvb.png)
+imagem demo: ![imagem demo](https://i.imgur.com/IuYwwhB.png)
 
 ## Guia de Instalação
 
